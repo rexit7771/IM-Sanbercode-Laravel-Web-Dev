@@ -1,0 +1,3 @@
+Motivasi saya adalah belajar kembali laravel karena terakhir saya magang itu pakai laravel 7.0
+dan juga menambah wawasan seputar dunia web developer. Karena banyak juga perusahaan yang 
+membutuhkan laravel ini
